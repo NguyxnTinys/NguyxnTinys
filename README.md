@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://mtv.vn/uploads/2023/02/25/meo-gg.jpg"  />
+  <img height="500" src="https://mtv.vn/uploads/2023/02/25/meo-gg.jpg"  />
 </div>
 
 ###
